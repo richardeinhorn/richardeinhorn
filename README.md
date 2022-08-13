@@ -19,7 +19,7 @@
 - An economist by trade, a programmer by choice 🤍
 - Experienced building scalable web applications - most enjoy working with Node.js, Typescript, React, Redux, Postgres, GraphQL but pragmatic about choosing the right technology for the given task 👌
 - Excited about building SaaS platforms and tools that leverage advanced data analytics. Following trends in RL and deep learning 📚
-- Reach out to me on [LinkedIn](https://www.linkedin.com/in/richard-einhorn/), [Twitter](https://twitter.com/einhorn_richard) or via [email](mailto:riei@hotmail.de) 📫
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/richard-einhorn/) or [Twitter](https://twitter.com/einhorn_richard), send me an [email](mailto:riei@hotmail.de) or schedule a [call](https://calendly.com/richard-einhorn/meeting) 📅
 
 ---
 ### :hammer_and_wrench: Languages and tools:
